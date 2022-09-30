@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+article {
+    background-color: aquamarine;
+}
+
+nav {
+    background-color: black;
+}
